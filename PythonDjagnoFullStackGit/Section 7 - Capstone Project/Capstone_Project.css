@@ -1,0 +1,32 @@
+body{
+  font-family: 'Montserrat';
+  color: white;
+  text-align: center;
+  background-color: #2B2D2F;
+  border: 60px solid #B0D7FF;
+  border-top: 0px;
+  margin: 0px;
+}
+
+#pagedescription{
+
+}
+
+p{
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+#submitbutton{
+  font-weight: bold;
+  background-color: #FFC0CB;
+  border-radius: 20px;
+  height: 50px;
+  width: 100px;
+  margin-top: 10px;
+}
